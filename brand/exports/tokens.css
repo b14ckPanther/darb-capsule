@@ -1,0 +1,18 @@
+/* Generated from src/tokens.json by scripts/build.mjs. Edit the JSON, not this file. */
+:root {
+  --night: #03110C; /* Darb night: base surface */
+  --forest: #0E3527; /* Darb forest: raised surfaces, cards, the widget */
+  --gold: #D9A54C; /* Darb gold: the capsule's metal half, earned things */
+  --gold-light: #FBE7BD; /* Light from inside the capsule */
+  --gold-deep: #6D4C17; /* Gold in shadow */
+  --ivory: #FBF7EC; /* The capsule's enamel half, text on night */
+  --vigor: #3FB37A; /* Health: how your body is doing today */
+  --ember: #FF9A3C; /* Stamina, and a check-in landing */
+  --seal: #C8432F; /* An alert worth your attention */
+  --sky: #7FB3C8; /* Rim light */
+  --ink: #0B2219; /* Text on ivory */
+  --muted: #8FA399; /* Secondary text on night */
+  --font-seal: 'Yuji Boku', 'Hiragino Mincho ProN', serif;
+  --font-display: 'Zen Antique', 'Hiragino Mincho ProN', serif;
+  --font-ui: 'Geist', system-ui, sans-serif;
+}
